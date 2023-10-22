@@ -16,6 +16,6 @@ use App\Http\Controllers\HomeController;
 */
 
 Route::get('/', [HomeController::class,'home']);
-// Route::get('/about', [HomeController::class,'about']);
+Route::get('/user', [HomeController::class,'user']);
 // Route::get('/contact', [HomeController::class,'contact']);
 
