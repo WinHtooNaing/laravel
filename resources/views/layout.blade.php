@@ -7,9 +7,9 @@
     <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary" style="border-bottom: 1px solid #222;">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/" style="margin-left: 5%;">Sample Blog Site</a>
+    <a class="navbar-brand" href="/" style="margin-left: 15%;">Sample Blog Site</a>
     
-    <div class="collapse navbar-collapse" id="navbarSupportedContent" style="margin-left: 20%;">
+    <!-- <div class="collapse navbar-collapse" id="navbarSupportedContent" style="margin-left: 20%;">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/">Post Table</a>
@@ -20,7 +20,7 @@
         
       </ul>
       
-    </div>
+    </div> -->
   </div>
 </nav>
 
